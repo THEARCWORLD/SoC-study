@@ -1,6 +1,4 @@
-# NMD 悦龙 Radiant2Pro
-第二代悦龙R Pro 规格
----
+# NMD Family系列
 
 * 架构：Family Krint
 * 市场：Arm移动端
